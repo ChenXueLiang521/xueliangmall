@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="xueliangmal-lweb-util" />
+        <module name="xueliangmall-bean" />
+        <module name="xueliangmall-common-util" />
+        <module name="xueliangmall-interface" />
+        <module name="xueliangmall-order-web" />
+        <module name="xueliangmall-service-util" />
+        <module name="xueliangmall-usermanager" />
+        <module name="xueliangmall-web-util" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="xueliangmal-lweb-util" target="1.8" />
+      <module name="xueliangmall-bean" target="1.8" />
+      <module name="xueliangmall-common-util" target="1.8" />
+      <module name="xueliangmall-interface" target="1.8" />
+      <module name="xueliangmall-order-web" target="1.8" />
+      <module name="xueliangmall-parent" target="1.8" />
+      <module name="xueliangmall-service-util" target="1.8" />
+      <module name="xueliangmall-usermanager" target="1.8" />
+      <module name="xueliangmall-web-util" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
